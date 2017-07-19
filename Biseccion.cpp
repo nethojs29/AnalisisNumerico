@@ -6,6 +6,7 @@
 
 using namespace std;
 
+
 long double evaluar(long double);
 void encabezado();
 
